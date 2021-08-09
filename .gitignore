@@ -2,4 +2,8 @@
 data
 logs
 Learnable Triangulation of Human Pose/
+models
+*pycache*
+
+
 
